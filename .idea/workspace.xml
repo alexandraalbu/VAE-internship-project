@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d7dd1cc-4bef-4503-9097-003b6fffbde2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/documentation.pdf" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -64,11 +64,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data_reader.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="data_reader.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_reader.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="113" lean-forward="true" selection-start-line="13" selection-start-column="113" selection-end-line="13" selection-end-column="113" />
               <folding />
             </state>
           </provider>
@@ -180,6 +190,7 @@
         <option value="$PROJECT_DIR$/plots_latent_space.py" />
         <option value="$PROJECT_DIR$/make_pictures.py" />
         <option value="$PROJECT_DIR$/data_reader.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -557,7 +568,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pictures/generate_svhn_conv3.png" />
     <entry file="file://$PROJECT_DIR$/pictures/singular_values_ratio_test_set.png" />
     <entry file="file://$PROJECT_DIR$/pictures/singular_values_train_set.png" />
     <entry file="file://$PROJECT_DIR$/pictures/singular_values_ratio_train_set.png" />
@@ -702,6 +712,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="113" lean-forward="true" selection-start-line="13" selection-start-column="113" selection-end-line="13" selection-end-column="113" />
           <folding />
         </state>
       </provider>
