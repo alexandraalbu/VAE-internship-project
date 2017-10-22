@@ -1,7 +1,7 @@
 # vae_internship
 ## Image generation using Variational Autoencoders
 
-Variational Autoencoders (VAEs) are generative models which combine concepts from both deep learning and statistical inference. They can be used to learn a low dimensional representation of complex, high dimensional data. One popular application is image generation. In this project I implemented a VAE that can learn the distribution of pixels in images, playing with different datasets and distributions. 
+Variational Autoencoders (VAEs) are generative models which combine concepts from both deep learning and statistical inference. They can be used to learn a low dimensional representation of complex, high dimensional data. One popular application is image generation. In this project I implemented a VAE that can learn the distribution of pixels in images, playing with different datasets and distributions. The project was developed during an internship at the Romanian Institute of Science and Technology.
 
 The project is implemented in Python using TensorFlow.
 
