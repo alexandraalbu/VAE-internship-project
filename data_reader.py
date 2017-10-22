@@ -18,7 +18,8 @@ FLAGS = flags.FLAGS
 
 Datasets = collections.namedtuple('Datasets', ['train', 'test'])
 
-# this class is a slight modification of the one available in mnist.py (part of TensorFlow tutorial)
+# this class is a slight modification of the one available at
+# https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/learn/python/learn/datasets/mnist.py
 class DataSet(object):
     def __init__(self, images, fake_data=False, one_hot=False, dtype=dtypes.float32, seed=None):
         """Construct a DataSet.
