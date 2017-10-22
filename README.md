@@ -5,7 +5,7 @@ Variational Autoencoders (VAEs) are generative models which combine concepts fro
 
 The project is implemented in Python using TensorFlow.
 
-For details on how to run the code and details about the performed experimentes, see documentation.pdf.
+For details on how to run the code and details about the performed experiments, see documentation.pdf.
 
 ### Bibliography and useful links
 1) [Tutorial on Variational Autoencoders](https://arxiv.org/pdf/1606.05908.pdf)
